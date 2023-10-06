@@ -160,3 +160,14 @@ public class ServletProduto extends HttpServlet {
 * ProdutoDados.jsp
 ```jsp
 ```
+<br>
+
+[Procedimento 3: Melhorando o Design da Interface](https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%203)
+
+* ProdutoLista.jsp
+```jsp
+```
+
+* ProdutoDados.jsp
+```jsp
+```
