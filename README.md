@@ -772,13 +772,21 @@ https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/2a3c6228-e493-4ab
 
 https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/c7a35e84-ac42-4dc6-b901-5df44fd29c98
 
+<h2> Listar os produtos com a chamada para o endereço seguinte: http://localhost:8080/CadastroEE-war/ServletProdutoFC?acao=listar </h2>
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/1%20proc%202%20missao%204.png" alt="resultado 1" width="640" height="360">
+
+<h2> Efetuar uma inclusão a partir do link da tela de listagem </h2>
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/2%20proc2%20missao%204.png" alt="resultado 2" width="640" height="360">
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/3%20proc%202%20missao%204.png" alt="resultado 3" width="640" height="360">
+
+<h2> Efetuar uma alteração a partir do link dinâmico da listagem </h2>
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/4%20proc2%20missao%204.png" alt="resultado 4" width="640" height="360">
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/5%20proc2%20missao%204.png" alt="resultado 5" width="640" height="360">
+
+<h2> Efetuar uma exclusão a partir do link dinâmico da listagem </h2>
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%202/resultados%20proc2/6%20proc2%20missao%204.png" alt="resultado 6" width="640" height="360">
 <br>
+
 :triangular_flag_on_post: Procedimento 3: https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%203
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/1%20proc3%20missao%204.png" alt="resultado 1" width="640" height="360">
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/2%20proc3%20missao%204.png" alt="resultado 2" width="640" height="360">
