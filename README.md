@@ -751,3 +751,17 @@ public class ServletProdutoFC extends HttpServlet {
     </body>
 </html>
 ```
+<hr>
+<h1>Resultados: </h1>
+:triangular_flag_on_post: Procedimento 1: https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%201
+
+
+https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/2a3c6228-e493-4ab9-aa20-371e317d4f29
+
+
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/1%20proc1%20missao%204.png" alt="resultado 1" width="1280" height="360">
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/2%20proc1%20missao%204.png" alt="resultado 2" width="1280" height="360">
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/3%20proc%201%20missao%204.png" alt="resultado 3" width="1280" height="360">
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/4%20proc%201%20missao%204.png" alt="resultado 4" width="1280" height="360">
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/5%20proc%201%20missao%204.png" alt="resultado 5" width="1280" height="360">
+<img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%201/resultados%20proc1/6%20proc%201%20missao%204.png" alt="resultado 6" width="1280" height="360">
