@@ -16,18 +16,19 @@
 
 * [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
 <hr>
- <h1 align="center"> Missão Prática | Nível 3 | Mundo 3 </h1>
- <h2 align="left" > Criação de aplicativo Java, com acesso ao banco de dados SQL Server através do middleware JDBC Server. </h2> 
- <h3>Procedimento 1: Mapeamento Objeto-Relacional e DAO </h3>
- <h3>Procedimento 2: Alimentando a Base </h3>
- 
+ <h1 align="center"> Missão Prática | Nível 4 | Mundo 3 </h1>
+ <h2 align="left" > Implementação de sistema cadastral com interface Web, baseado nas tecnologias deServlets, JPA e JEE. </h2> 
+ <h3>Procedimento 1: Camadas de Persistência e Controle </h3>
+ <h3>Procedimento 2: Interface Cadastral com Servlet e JSPs </h3>
+ <h3>Procedimento 3: Melhorando o Design da Interface </h3>
  <hr>
 
  <h2> :clipboard: Objetivos da Prática </h2>
 
-* Implementar persistência com base no middleware JDBC.
-* Utilizar o padrão DAO (Data Access Object) no manuseio de dados.
-* Implementar o mapeamento objeto-relacional em sistemas Java.
-* Criar sistemas cadastrais com persistência em banco relacional.
-* No final do exercício, o aluno terá criado um aplicativo cadastral com uso do SQL Server na persistência de dados.
+* Implementar persistência com base em JPA.
+* Implementar regras de negócio na plataforma JEE, através de EJBs.
+* Implementar sistema cadastral Web com   base em Servlets e JSPs.
+* Utilizar a biblioteca Bootstrap para melhoria do design.
+* No final do exercício, o aluno terá criado todos os elementos necessários para exibição e entrada de dados na plataforma Java Web, tornando-se capacitado para
+lidar com contextos reais de aplicação.
 <hr>
