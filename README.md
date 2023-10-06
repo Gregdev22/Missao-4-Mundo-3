@@ -145,3 +145,18 @@ public class ServletProduto extends HttpServlet {
 }
 
 ```
+<br>
+
+[Procedimento 2: Interface Cadastral com Servlet e JSPs](https://github.com/Gregdev22/Missao-4-Mundo-3/tree/main/Procedimento%202)
+
+* ServletProdutoFC.java
+```java
+```
+
+* ProdutoLista.jsp
+```jsp
+```
+
+* ProdutoDados.jsp
+```jsp
+```
