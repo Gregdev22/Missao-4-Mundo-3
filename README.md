@@ -793,3 +793,80 @@ https://github.com/Gregdev22/Missao-4-Mundo-3/assets/103840468/c7a35e84-ac42-4dc
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/1%20proc3%20missao%204.png" alt="resultado 1" width="640" height="360">
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/2%20proc3%20missao%204.png" alt="resultado 2" width="640" height="360">
 <img src="https://github.com/Gregdev22/Missao-4-Mundo-3/blob/main/Procedimento%203/Resultados%20proc3/3%20proc3%20missao%204.png" alt="resultado 3" width="640" height="360">
+
+<hr>
+
+<h1>Análise e Conclusão</h1>
+<ul>
+   <li>
+      Como é organizado um projeto corporativo no NetBeans?  
+      <p> 
+        <h4> Resposta </h4>         
+      </p>
+   </li>
+             
+   <li>
+     Qual o papel das tecnologias JPA e EJB na construção de um aplicativo para a plataforma Web no ambiente Java?
+      <p> 
+         Resposta 
+      </p>
+   </li>
+   
+   <li>
+      Como o NetBeans viabiliza a melhoria de produtividade ao lidar com as tecnologias JPA e EJB?
+      <p> 
+          Resposta
+      </p>
+   </li>
+   
+   <li>
+     O que são Servlets, e como o NetBeans oferece suporte à construção desse tipo de componentes em um projeto Web? 
+      <p> 
+       Resposta
+      </p>
+   </li>
+
+   <li>
+     Como é feita a comunicação entre os Serlvets e os Session Beans do pool de EJBs?
+      <p> 
+      Resposta
+      </p>
+   </li>
+
+   <li>
+     Como funciona o padrão Front Controller, e como ele é implementado em um aplicativo Web Java, na arquitetura MVC?
+      <p> 
+       Resposta
+      </p>
+   </li>
+   <li>
+      Quais as diferenças e semelhanças entre Servlets e JSPs?
+      <p> 
+        Resposta
+      </p>
+   </li>
+    <li>
+     Qual a diferença entre um redirecionamento simples e o uso do método forward, a partir do RequestDispatcher? Para que servem parâmetros e atributos nos objetos HttpRequest?
+      <p> 
+        Resposta
+      </p>
+   </li>
+       <li>
+       Como o framework Bootstrap é utilizado?
+      <p> 
+        Resposta
+      </p>
+   </li>
+       <li>
+       Por que o Bootstrap garante a independência estrutural do HTML?
+      <p> 
+        Resposta
+      </p>
+   </li>
+       <li>
+     Qual a relação entre o Boostrap e a responsividade da página?
+      <p> 
+        Resposta
+      </p>
+   </li>
+</ul>
